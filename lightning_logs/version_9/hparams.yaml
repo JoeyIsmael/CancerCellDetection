@@ -1,0 +1,6 @@
+dropout_rate: 0.04
+layer_size: 34
+lr: 0.0001
+num_inputs: 30
+num_layers: 8
+num_outputs: 1
